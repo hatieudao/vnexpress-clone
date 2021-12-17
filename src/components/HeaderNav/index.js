@@ -1,17 +1,51 @@
 import React from 'react'
-import { Layout, Menu } from 'antd'
+import { Layout, Button, Input } from 'antd'
+import {
+  ClockCircleOutlined,
+  UserOutlined,
+  MenuOutlined,
+} from '@ant-design/icons'
+import moment from 'moment'
+import 'moment/locale/vi'
+import Navigation from './Navigation'
+import './HeaderNav.scss'
+
+const { Search } = Input
+
 const { Header } = Layout
+
 function HeaderNav() {
+  const date = moment().locale('vi').format('LLLL').split(' ')
+  date.pop()
   return (
-    <Header>
-      <div className="logo" />
-      <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['2']}>
-        {new Array(15).fill(null).map((_, index) => {
-          const key = index + 1
-          return <Menu.Item key={key}>{`nav ${key}`}</Menu.Item>
-        })}
-      </Menu>
-    </Header>
+    <>
+      <Header className="header">
+        <div className="header__left">
+          <Button className="header__menu">
+            <MenuOutlined />
+          </Button>
+          <img src="/logo.svg" className="logo" alt="logo" />
+          <p className="header-time">{date.join(' ')}</p>
+        </div>
+        <div className="header__right">
+          <Button className="header__new">
+            <ClockCircleOutlined />
+            Mới nhất
+          </Button>
+          <Button className="header__internation">International</Button>
+          <Search
+            className="header__search"
+            placeholder="Tìm kiếm"
+            style={{ width: 160 }}
+          />
+          <Button className="header__sigin" type="text">
+            <UserOutlined />
+            Đăng Nhập
+          </Button>
+        </div>
+      </Header>
+      <Navigation />
+    </>
   )
 }
 
