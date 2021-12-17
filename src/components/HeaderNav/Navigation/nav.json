@@ -1,0 +1,613 @@
+[
+    {
+        "id": "1",
+        "title": "Thời sự",
+        "link": "/Thời-sự",
+        "child": [
+            {
+                "id": "10",
+                "title": "Chính trị",
+                "link": "/Chính-trị/Chính-trị"
+            },
+            {
+                "id": "11",
+                "title": "Dân sinh",
+                "link": "/Chính-trị/Dân-sinh"
+            },
+            {
+                "id": "12",
+                "title": "Giao thông",
+                "link": "/Chính-trị/Giao-thông"
+            },
+            {
+                "id": "13",
+                "title": "Mekong",
+                "link": "/Chính-trị/Mekong"
+            },
+            {
+                "id": "14",
+                "title": "Xem thêm",
+                "link": "/Chính-trị/Xem-thêm"
+            },
+            {
+                "id": "15",
+                "title": "",
+                "link": "/Chính-trị/"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Góc nhìn",
+        "link": "/Góc-nhìn",
+        "child": [
+            {
+                "id": "20",
+                "title": "Bình luận nhiều",
+                "link": "/Bình-luận-nhiều/Bình-luận-nhiều"
+            },
+            {
+                "id": "21",
+                "title": "Covid 19",
+                "link": "/Bình-luận-nhiều/Covid-19"
+            },
+            {
+                "id": "22",
+                "title": "Chính trị & chính sách",
+                "link": "/Bình-luận-nhiều/Chính-trị-&-chính-sách"
+            },
+            {
+                "id": "23",
+                "title": "Y tế & sức khỏe",
+                "link": "/Bình-luận-nhiều/Y-tế-&-sức-khỏe"
+            },
+            {
+                "id": "24",
+                "title": "Xem thêm",
+                "link": "/Bình-luận-nhiều/Xem-thêm"
+            },
+            {
+                "id": "25",
+                "title": "",
+                "link": "/Bình-luận-nhiều/"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Thế giới",
+        "link": "/Thế-giới",
+        "child": [
+            {
+                "id": "30",
+                "title": "Tư liệu",
+                "link": "/Tư-liệu/Tư-liệu"
+            },
+            {
+                "id": "31",
+                "title": "Phân tích",
+                "link": "/Tư-liệu/Phân-tích"
+            },
+            {
+                "id": "32",
+                "title": "Người Việt 5 châu",
+                "link": "/Tư-liệu/Người-Việt-5-châu"
+            },
+            {
+                "id": "33",
+                "title": "Cuộc sống đó đây",
+                "link": "/Tư-liệu/Cuộc-sống-đó-đây"
+            },
+            {
+                "id": "34",
+                "title": "Xem thêm",
+                "link": "/Tư-liệu/Xem-thêm"
+            },
+            {
+                "id": "35",
+                "title": "",
+                "link": "/Tư-liệu/"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Video",
+        "link": "/Video",
+        "child": [
+            {
+                "id": "40",
+                "title": "Thời sự",
+                "link": "/Thời-sự/Thời-sự"
+            },
+            {
+                "id": "41",
+                "title": "Nhịp sống",
+                "link": "/Thời-sự/Nhịp-sống"
+            },
+            {
+                "id": "42",
+                "title": "Sports Life",
+                "link": "/Thời-sự/Sports-Life"
+            },
+            {
+                "id": "43",
+                "title": "Food",
+                "link": "/Thời-sự/Food"
+            },
+            {
+                "id": "44",
+                "title": "Xem thêm",
+                "link": "/Thời-sự/Xem-thêm"
+            },
+            {
+                "id": "45",
+                "title": "",
+                "link": "/Thời-sự/"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Podcasts",
+        "link": "/Podcasts",
+        "child": [
+            {
+                "id": "50",
+                "title": "VnExpress hôm nay",
+                "link": "/VnExpress-hôm-nay/VnExpress-hôm-nay"
+            },
+            {
+                "id": "51",
+                "title": "Bạn ổn không?",
+                "link": "/VnExpress-hôm-nay/Bạn-ổn-không?"
+            },
+            {
+                "id": "52",
+                "title": "Thầm thì",
+                "link": "/VnExpress-hôm-nay/Thầm-thì"
+            },
+            {
+                "id": "53",
+                "title": "Điểm tin",
+                "link": "/VnExpress-hôm-nay/Điểm-tin"
+            },
+            {
+                "id": "54",
+                "title": "Xem thêm",
+                "link": "/VnExpress-hôm-nay/Xem-thêm"
+            },
+            {
+                "id": "55",
+                "title": "",
+                "link": "/VnExpress-hôm-nay/"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Kinh doanh",
+        "link": "/Kinh-doanh",
+        "child": [
+            {
+                "id": "60",
+                "title": "Quốc tế",
+                "link": "/Quốc-tế/Quốc-tế"
+            },
+            {
+                "id": "61",
+                "title": "Doanh nghiệp",
+                "link": "/Quốc-tế/Doanh-nghiệp"
+            },
+            {
+                "id": "62",
+                "title": "Chứng khoán",
+                "link": "/Quốc-tế/Chứng-khoán"
+            },
+            {
+                "id": "63",
+                "title": "Bất động sản",
+                "link": "/Quốc-tế/Bất-động-sản"
+            },
+            {
+                "id": "64",
+                "title": "Xem thêm",
+                "link": "/Quốc-tế/Xem-thêm"
+            },
+            {
+                "id": "65",
+                "title": "",
+                "link": "/Quốc-tế/"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Khoa học",
+        "link": "/Khoa-học",
+        "child": [
+            {
+                "id": "70",
+                "title": "Khoa học trong nước",
+                "link": "/Khoa-học-trong-nước/Khoa-học-trong-nước"
+            },
+            {
+                "id": "71",
+                "title": "Tin tức",
+                "link": "/Khoa-học-trong-nước/Tin-tức"
+            },
+            {
+                "id": "72",
+                "title": "Phát minh",
+                "link": "/Khoa-học-trong-nước/Phát-minh"
+            },
+            {
+                "id": "73",
+                "title": "Ứng dụng",
+                "link": "/Khoa-học-trong-nước/Ứng-dụng"
+            },
+            {
+                "id": "74",
+                "title": "Xem thêm",
+                "link": "/Khoa-học-trong-nước/Xem-thêm"
+            },
+            {
+                "id": "75",
+                "title": "",
+                "link": "/Khoa-học-trong-nước/"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "title": "Giải trí",
+        "link": "/Giải-trí",
+        "child": [
+            {
+                "id": "80",
+                "title": "Giới sao",
+                "link": "/Giới-sao/Giới-sao"
+            },
+            {
+                "id": "81",
+                "title": "Video",
+                "link": "/Giới-sao/Video"
+            },
+            {
+                "id": "82",
+                "title": "Phim",
+                "link": "/Giới-sao/Phim"
+            },
+            {
+                "id": "83",
+                "title": "Nhạc",
+                "link": "/Giới-sao/Nhạc"
+            },
+            {
+                "id": "84",
+                "title": "Xem thêm",
+                "link": "/Giới-sao/Xem-thêm"
+            },
+            {
+                "id": "85",
+                "title": "",
+                "link": "/Giới-sao/"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Thể thao",
+        "link": "/Thể-thao",
+        "child": [
+            {
+                "id": "90",
+                "title": "Bóng đá",
+                "link": "/Bóng-đá/Bóng-đá"
+            },
+            {
+                "id": "91",
+                "title": "Lịch thi đấu",
+                "link": "/Bóng-đá/Lịch-thi-đấu"
+            },
+            {
+                "id": "92",
+                "title": "Tennis",
+                "link": "/Bóng-đá/Tennis"
+            },
+            {
+                "id": "93",
+                "title": "VM 2021",
+                "link": "/Bóng-đá/VM-2021"
+            },
+            {
+                "id": "94",
+                "title": "Xem thêm",
+                "link": "/Bóng-đá/Xem-thêm"
+            },
+            {
+                "id": "95",
+                "title": "",
+                "link": "/Bóng-đá/"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "title": "Pháp luật",
+        "link": "/Pháp-luật",
+        "child": [
+            {
+                "id": "100",
+                "title": "Hồ sơ phá án",
+                "link": "/Hồ-sơ-phá-án/Hồ-sơ-phá-án"
+            },
+            {
+                "id": "101",
+                "title": "Tư vấn",
+                "link": "/Hồ-sơ-phá-án/Tư-vấn"
+            },
+            {
+                "id": "102",
+                "title": "",
+                "link": "/Hồ-sơ-phá-án/"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "title": "Giáo dục",
+        "link": "/Giáo-dục",
+        "child": [
+            {
+                "id": "110",
+                "title": "Tuyển sinh",
+                "link": "/Tuyển-sinh/Tuyển-sinh"
+            },
+            {
+                "id": "111",
+                "title": "Điểm thi",
+                "link": "/Tuyển-sinh/Điểm-thi"
+            },
+            {
+                "id": "112",
+                "title": "Tra cứu đại học",
+                "link": "/Tuyển-sinh/Tra-cứu-đại-học"
+            },
+            {
+                "id": "113",
+                "title": "Du học",
+                "link": "/Tuyển-sinh/Du-học"
+            },
+            {
+                "id": "114",
+                "title": "Xem thêm",
+                "link": "/Tuyển-sinh/Xem-thêm"
+            },
+            {
+                "id": "115",
+                "title": "",
+                "link": "/Tuyển-sinh/"
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "title": "Sức khỏe",
+        "link": "/Sức-khỏe",
+        "child": [
+            {
+                "id": "120",
+                "title": "Tin tức",
+                "link": "/Tin-tức/Tin-tức"
+            },
+            {
+                "id": "121",
+                "title": "Tư vấn",
+                "link": "/Tin-tức/Tư-vấn"
+            },
+            {
+                "id": "122",
+                "title": "Dinh dưỡng",
+                "link": "/Tin-tức/Dinh-dưỡng"
+            },
+            {
+                "id": "123",
+                "title": "Khỏe đẹp",
+                "link": "/Tin-tức/Khỏe-đẹp"
+            },
+            {
+                "id": "124",
+                "title": "Xem thêm",
+                "link": "/Tin-tức/Xem-thêm"
+            },
+            {
+                "id": "125",
+                "title": "",
+                "link": "/Tin-tức/"
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "title": "Đời sống",
+        "link": "/Đời-sống",
+        "child": [
+            {
+                "id": "130",
+                "title": "Tổ ấm",
+                "link": "/Tổ-ấm/Tổ-ấm"
+            },
+            {
+                "id": "131",
+                "title": "Bài học sống",
+                "link": "/Tổ-ấm/Bài-học-sống"
+            },
+            {
+                "id": "132",
+                "title": "Nhà",
+                "link": "/Tổ-ấm/Nhà"
+            },
+            {
+                "id": "133",
+                "title": "Tiêu dùng",
+                "link": "/Tổ-ấm/Tiêu-dùng"
+            },
+            {
+                "id": "134",
+                "title": "Xem thêm",
+                "link": "/Tổ-ấm/Xem-thêm"
+            },
+            {
+                "id": "135",
+                "title": "",
+                "link": "/Tổ-ấm/"
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "title": "Du lịch",
+        "link": "/Du-lịch",
+        "child": [
+            {
+                "id": "140",
+                "title": "Điểm đến",
+                "link": "/Điểm-đến/Điểm-đến"
+            },
+            {
+                "id": "141",
+                "title": "Dấu chân",
+                "link": "/Điểm-đến/Dấu-chân"
+            },
+            {
+                "id": "142",
+                "title": "Tư vấn",
+                "link": "/Điểm-đến/Tư-vấn"
+            },
+            {
+                "id": "143",
+                "title": "Ảnh",
+                "link": "/Điểm-đến/Ảnh"
+            },
+            {
+                "id": "144",
+                "title": "Xem thêm",
+                "link": "/Điểm-đến/Xem-thêm"
+            },
+            {
+                "id": "145",
+                "title": "",
+                "link": "/Điểm-đến/"
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "title": "Số hóa",
+        "link": "/Số-hóa",
+        "child": [
+            {
+                "id": "150",
+                "title": "Công nghệ",
+                "link": "/Công-nghệ/Công-nghệ"
+            },
+            {
+                "id": "151",
+                "title": "Sản phẩm",
+                "link": "/Công-nghệ/Sản-phẩm"
+            },
+            {
+                "id": "152",
+                "title": "Tech Awards 2021",
+                "link": "/Công-nghệ/Tech-Awards-2021"
+            },
+            {
+                "id": "153",
+                "title": "",
+                "link": "/Công-nghệ/"
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "title": "Xe",
+        "link": "/Xe",
+        "child": [
+            {
+                "id": "160",
+                "title": "Thị trường",
+                "link": "/Thị-trường/Thị-trường"
+            },
+            {
+                "id": "161",
+                "title": "Tư vấn",
+                "link": "/Thị-trường/Tư-vấn"
+            },
+            {
+                "id": "162",
+                "title": "Car Awards 2021",
+                "link": "/Thị-trường/Car-Awards-2021"
+            },
+            {
+                "id": "163",
+                "title": "V-Car",
+                "link": "/Thị-trường/V-Car"
+            },
+            {
+                "id": "164",
+                "title": "Xem thêm",
+                "link": "/Thị-trường/Xem-thêm"
+            },
+            {
+                "id": "165",
+                "title": "",
+                "link": "/Thị-trường/"
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "title": "Ý kiến",
+        "link": "/Ý-kiến",
+        "child": [
+            {
+                "id": "170",
+                "title": "Thời sự",
+                "link": "/Thời-sự/Thời-sự"
+            },
+            {
+                "id": "171",
+                "title": "Đời sống",
+                "link": "/Thời-sự/Đời-sống"
+            },
+            {
+                "id": "172",
+                "title": "",
+                "link": "/Thời-sự/"
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "title": "Tâm sự",
+        "link": "/Tâm-sự",
+        "child": [
+            {
+                "id": "180",
+                "title": "Chuyên gia gỡ rối",
+                "link": "/Chuyên-gia-gỡ-rối/Chuyên-gia-gỡ-rối"
+            },
+            {
+                "id": "181",
+                "title": "Hẹn hò",
+                "link": "/Chuyên-gia-gỡ-rối/Hẹn-hò"
+            },
+            {
+                "id": "182",
+                "title": "",
+                "link": "/Chuyên-gia-gỡ-rối/"
+            }
+        ]
+    }
+]

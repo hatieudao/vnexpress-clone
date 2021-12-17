@@ -1,6 +1,7 @@
 import React from 'react'
 import { Menu, Dropdown } from 'antd'
 import { Link } from 'react-router-dom'
+import './DropdownNav.scss'
 const menu = (child) => (
   <Menu>
     {child.map(({ id, title, link }) => (
@@ -11,10 +12,12 @@ const menu = (child) => (
     ))}
   </Menu>
 )
-function DropdownNav({ child, title }) {
+function DropdownNav({ child, title, link }) {
   return (
     <Dropdown overlay={menu(child)}>
-      <p>{title}</p>
+      <Link to={link} className="nav__title">
+        {title}
+      </Link>
     </Dropdown>
   )
 }

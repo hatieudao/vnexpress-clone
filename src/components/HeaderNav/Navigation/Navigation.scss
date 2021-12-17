@@ -1,0 +1,13 @@
+.navigation{
+  height: 80px;
+  & >ul{
+    height: 100%;
+    padding-left: 70px;
+    display: flex;
+    align-items: center;
+  }
+  &--fixed{
+    position: fixed !important;
+    top: 0 !important;
+  }
+}
