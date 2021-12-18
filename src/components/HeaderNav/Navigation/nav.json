@@ -2,111 +2,116 @@
     {
         "id": "1",
         "title": "Thời sự",
-        "link": "/Thời-sự",
+        "link": "/Thoi-su",
         "child": [
             {
                 "id": "10",
                 "title": "Chính trị",
-                "link": "/Chính-trị/Chính-trị"
+                "link": "/Thoi-su/Chinh-tri"
             },
             {
                 "id": "11",
                 "title": "Dân sinh",
-                "link": "/Chính-trị/Dân-sinh"
+                "link": "/Thoi-su/Dan-sinh"
             },
             {
                 "id": "12",
                 "title": "Giao thông",
-                "link": "/Chính-trị/Giao-thông"
+                "link": "/Thoi-su/Giao-thong"
             },
             {
                 "id": "13",
                 "title": "Mekong",
-                "link": "/Chính-trị/Mekong"
+                "link": "/Thoi-su/Mekong"
             },
             {
                 "id": "14",
-                "title": "Xem thêm",
-                "link": "/Chính-trị/Xem-thêm"
-            },
-            {
-                "id": "15",
-                "title": "",
-                "link": "/Chính-trị/"
+                "title": "Quỹ Hy vọng",
+                "link": "/Thoi-su/Quy-Hy-vong"
             }
         ]
     },
     {
         "id": "2",
         "title": "Góc nhìn",
-        "link": "/Góc-nhìn",
+        "link": "/Goc-nhin",
         "child": [
             {
                 "id": "20",
                 "title": "Bình luận nhiều",
-                "link": "/Bình-luận-nhiều/Bình-luận-nhiều"
+                "link": "/Goc-nhin/Binh-luan-nhieu"
             },
             {
                 "id": "21",
                 "title": "Covid 19",
-                "link": "/Bình-luận-nhiều/Covid-19"
+                "link": "/Goc-nhin/Covid-19"
             },
             {
                 "id": "22",
                 "title": "Chính trị & chính sách",
-                "link": "/Bình-luận-nhiều/Chính-trị-&-chính-sách"
+                "link": "/Goc-nhin/Chinh-tri---chinh-sach"
             },
             {
                 "id": "23",
                 "title": "Y tế & sức khỏe",
-                "link": "/Bình-luận-nhiều/Y-tế-&-sức-khỏe"
+                "link": "/Goc-nhin/Y-te---suc-khoe"
             },
             {
                 "id": "24",
-                "title": "Xem thêm",
-                "link": "/Bình-luận-nhiều/Xem-thêm"
+                "title": "Kinh doanh & quản trị",
+                "link": "/Goc-nhin/Kinh-doanh---quan-tri"
             },
             {
                 "id": "25",
-                "title": "",
-                "link": "/Bình-luận-nhiều/"
+                "title": "Giáo dục & tri thức",
+                "link": "/Goc-nhin/Giao-duc---tri-thuc"
+            },
+            {
+                "id": "26",
+                "title": "Môi trường",
+                "link": "/Goc-nhin/Moi-truong"
+            },
+            {
+                "id": "27",
+                "title": "Văn hóa & lối sống",
+                "link": "/Goc-nhin/Van-hoa---loi-song"
+            },
+            {
+                "id": "28",
+                "title": "Tác giả",
+                "link": "/Goc-nhin/Tac-gia"
             }
         ]
     },
     {
         "id": "3",
         "title": "Thế giới",
-        "link": "/Thế-giới",
+        "link": "/The-gioi",
         "child": [
             {
                 "id": "30",
                 "title": "Tư liệu",
-                "link": "/Tư-liệu/Tư-liệu"
+                "link": "/The-gioi/Tu-lieu"
             },
             {
                 "id": "31",
                 "title": "Phân tích",
-                "link": "/Tư-liệu/Phân-tích"
+                "link": "/The-gioi/Phan-tich"
             },
             {
                 "id": "32",
                 "title": "Người Việt 5 châu",
-                "link": "/Tư-liệu/Người-Việt-5-châu"
+                "link": "/The-gioi/Nguoi-Viet-5-chau"
             },
             {
                 "id": "33",
                 "title": "Cuộc sống đó đây",
-                "link": "/Tư-liệu/Cuộc-sống-đó-đây"
+                "link": "/The-gioi/Cuoc-song-do-day"
             },
             {
                 "id": "34",
-                "title": "Xem thêm",
-                "link": "/Tư-liệu/Xem-thêm"
-            },
-            {
-                "id": "35",
-                "title": "",
-                "link": "/Tư-liệu/"
+                "title": "Quân sự",
+                "link": "/The-gioi/Quan-su"
             }
         ]
     },
@@ -118,32 +123,82 @@
             {
                 "id": "40",
                 "title": "Thời sự",
-                "link": "/Thời-sự/Thời-sự"
+                "link": "/Video/Thoi-su"
             },
             {
                 "id": "41",
                 "title": "Nhịp sống",
-                "link": "/Thời-sự/Nhịp-sống"
+                "link": "/Video/Nhip-song"
             },
             {
                 "id": "42",
                 "title": "Sports Life",
-                "link": "/Thời-sự/Sports-Life"
+                "link": "/Video/Sports-Life"
             },
             {
                 "id": "43",
                 "title": "Food",
-                "link": "/Thời-sự/Food"
+                "link": "/Video/Food"
             },
             {
                 "id": "44",
-                "title": "Xem thêm",
-                "link": "/Thời-sự/Xem-thêm"
+                "title": "Cuộc sống 4.0",
+                "link": "/Video/Cuoc-song-4-0"
             },
             {
                 "id": "45",
-                "title": "",
-                "link": "/Thời-sự/"
+                "title": "Tôi kể",
+                "link": "/Video/Toi-ke"
+            },
+            {
+                "id": "46",
+                "title": "Chuyện núi rừng",
+                "link": "/Video/Chuyen-nui-rung"
+            },
+            {
+                "id": "47",
+                "title": "Tọa đàm kinh tế",
+                "link": "/Video/Toa-dam-kinh-te"
+            },
+            {
+                "id": "48",
+                "title": "Giải trí",
+                "link": "/Video/Giai-tri"
+            },
+            {
+                "id": "49",
+                "title": "Du lịch",
+                "link": "/Video/Du-lich"
+            },
+            {
+                "id": "410",
+                "title": "Thế giới",
+                "link": "/Video/The-gioi"
+            },
+            {
+                "id": "411",
+                "title": "Pháp luật",
+                "link": "/Video/Phap-luat"
+            },
+            {
+                "id": "412",
+                "title": "Kinh doanh",
+                "link": "/Video/Kinh-doanh"
+            },
+            {
+                "id": "413",
+                "title": "Khoa học",
+                "link": "/Video/Khoa-hoc"
+            },
+            {
+                "id": "414",
+                "title": "Giáo dục",
+                "link": "/Video/Giao-duc"
+            },
+            {
+                "id": "415",
+                "title": "Sức khỏe",
+                "link": "/Video/Suc-khoe"
             }
         ]
     },
@@ -155,32 +210,37 @@
             {
                 "id": "50",
                 "title": "VnExpress hôm nay",
-                "link": "/VnExpress-hôm-nay/VnExpress-hôm-nay"
+                "link": "/Podcasts/VnExpress-hom-nay"
             },
             {
                 "id": "51",
                 "title": "Bạn ổn không?",
-                "link": "/VnExpress-hôm-nay/Bạn-ổn-không?"
+                "link": "/Podcasts/Ban-on-khong-"
             },
             {
                 "id": "52",
                 "title": "Thầm thì",
-                "link": "/VnExpress-hôm-nay/Thầm-thì"
+                "link": "/Podcasts/Tham-thi"
             },
             {
                 "id": "53",
                 "title": "Điểm tin",
-                "link": "/VnExpress-hôm-nay/Điểm-tin"
+                "link": "/Podcasts/Diem-tin"
             },
             {
                 "id": "54",
-                "title": "Xem thêm",
-                "link": "/VnExpress-hôm-nay/Xem-thêm"
+                "title": "Úp - Mở",
+                "link": "/Podcasts/Up---Mo"
             },
             {
                 "id": "55",
-                "title": "",
-                "link": "/VnExpress-hôm-nay/"
+                "title": "Tiền làm gì?",
+                "link": "/Podcasts/Tien-lam-gi-"
+            },
+            {
+                "id": "56",
+                "title": "Nguy cơ",
+                "link": "/Podcasts/Nguy-co"
             }
         ]
     },
@@ -192,340 +252,420 @@
             {
                 "id": "60",
                 "title": "Quốc tế",
-                "link": "/Quốc-tế/Quốc-tế"
+                "link": "/Kinh-doanh/Quoc-te"
             },
             {
                 "id": "61",
                 "title": "Doanh nghiệp",
-                "link": "/Quốc-tế/Doanh-nghiệp"
+                "link": "/Kinh-doanh/Doanh-nghiep"
             },
             {
                 "id": "62",
                 "title": "Chứng khoán",
-                "link": "/Quốc-tế/Chứng-khoán"
+                "link": "/Kinh-doanh/Chung-khoan"
             },
             {
                 "id": "63",
                 "title": "Bất động sản",
-                "link": "/Quốc-tế/Bất-động-sản"
+                "link": "/Kinh-doanh/Bat-dong-san"
             },
             {
                 "id": "64",
-                "title": "Xem thêm",
-                "link": "/Quốc-tế/Xem-thêm"
+                "title": "Ebank",
+                "link": "/Kinh-doanh/Ebank"
             },
             {
                 "id": "65",
-                "title": "",
-                "link": "/Quốc-tế/"
+                "title": "Vĩ mô",
+                "link": "/Kinh-doanh/Vi-mo"
+            },
+            {
+                "id": "66",
+                "title": "Tiền của tôi",
+                "link": "/Kinh-doanh/Tien-cua-toi"
+            },
+            {
+                "id": "67",
+                "title": "Bảo hiểm",
+                "link": "/Kinh-doanh/Bao-hiem"
+            },
+            {
+                "id": "68",
+                "title": "Hàng hóa",
+                "link": "/Kinh-doanh/Hang-hoa"
+            },
+            {
+                "id": "69",
+                "title": "Startup",
+                "link": "/Kinh-doanh/Startup"
+            },
+            {
+                "id": "610",
+                "title": "E-commerce 4.0",
+                "link": "/Kinh-doanh/E-commerce-4-0"
+            },
+            {
+                "id": "611",
+                "title": "ViEF",
+                "link": "/Kinh-doanh/ViEF"
+            },
+            {
+                "id": "612",
+                "title": "Vhome",
+                "link": "/Kinh-doanh/Vhome"
+            },
+            {
+                "id": "613",
+                "title": "FPT eCovax",
+                "link": "/Kinh-doanh/FPT-eCovax"
+            },
+            {
+                "id": "614",
+                "title": "eBox",
+                "link": "/Kinh-doanh/eBox"
             }
         ]
     },
     {
         "id": "7",
         "title": "Khoa học",
-        "link": "/Khoa-học",
+        "link": "/Khoa-hoc",
         "child": [
             {
                 "id": "70",
                 "title": "Khoa học trong nước",
-                "link": "/Khoa-học-trong-nước/Khoa-học-trong-nước"
+                "link": "/Khoa-hoc/Khoa-hoc-trong-nuoc"
             },
             {
                 "id": "71",
                 "title": "Tin tức",
-                "link": "/Khoa-học-trong-nước/Tin-tức"
+                "link": "/Khoa-hoc/Tin-tuc"
             },
             {
                 "id": "72",
                 "title": "Phát minh",
-                "link": "/Khoa-học-trong-nước/Phát-minh"
+                "link": "/Khoa-hoc/Phat-minh"
             },
             {
                 "id": "73",
                 "title": "Ứng dụng",
-                "link": "/Khoa-học-trong-nước/Ứng-dụng"
+                "link": "/Khoa-hoc/Ung-dung"
             },
             {
                 "id": "74",
-                "title": "Xem thêm",
-                "link": "/Khoa-học-trong-nước/Xem-thêm"
+                "title": "Thế giới tự nhiên",
+                "link": "/Khoa-hoc/The-gioi-tu-nhien"
             },
             {
                 "id": "75",
-                "title": "",
-                "link": "/Khoa-học-trong-nước/"
+                "title": "Thường thức",
+                "link": "/Khoa-hoc/Thuong-thuc"
             }
         ]
     },
     {
         "id": "8",
         "title": "Giải trí",
-        "link": "/Giải-trí",
+        "link": "/Giai-tri",
         "child": [
             {
                 "id": "80",
                 "title": "Giới sao",
-                "link": "/Giới-sao/Giới-sao"
+                "link": "/Giai-tri/Gioi-sao"
             },
             {
                 "id": "81",
                 "title": "Video",
-                "link": "/Giới-sao/Video"
+                "link": "/Giai-tri/Video"
             },
             {
                 "id": "82",
                 "title": "Phim",
-                "link": "/Giới-sao/Phim"
+                "link": "/Giai-tri/Phim"
             },
             {
                 "id": "83",
                 "title": "Nhạc",
-                "link": "/Giới-sao/Nhạc"
+                "link": "/Giai-tri/Nhac"
             },
             {
                 "id": "84",
-                "title": "Xem thêm",
-                "link": "/Giới-sao/Xem-thêm"
+                "title": "Thời trang",
+                "link": "/Giai-tri/Thoi-trang"
             },
             {
                 "id": "85",
-                "title": "",
-                "link": "/Giới-sao/"
+                "title": "Làm đẹp",
+                "link": "/Giai-tri/Lam-dep"
+            },
+            {
+                "id": "86",
+                "title": "Sách",
+                "link": "/Giai-tri/Sach"
+            },
+            {
+                "id": "87",
+                "title": "Sân khấu - Mỹ thuật",
+                "link": "/Giai-tri/San-khau---My-thuat"
             }
         ]
     },
     {
         "id": "9",
         "title": "Thể thao",
-        "link": "/Thể-thao",
+        "link": "/The-thao",
         "child": [
             {
                 "id": "90",
                 "title": "Bóng đá",
-                "link": "/Bóng-đá/Bóng-đá"
+                "link": "/The-thao/Bong-da"
             },
             {
                 "id": "91",
                 "title": "Lịch thi đấu",
-                "link": "/Bóng-đá/Lịch-thi-đấu"
+                "link": "/The-thao/Lich-thi-dau"
             },
             {
                 "id": "92",
                 "title": "Tennis",
-                "link": "/Bóng-đá/Tennis"
+                "link": "/The-thao/Tennis"
             },
             {
                 "id": "93",
                 "title": "VM 2021",
-                "link": "/Bóng-đá/VM-2021"
+                "link": "/The-thao/VM-2021"
             },
             {
                 "id": "94",
-                "title": "Xem thêm",
-                "link": "/Bóng-đá/Xem-thêm"
+                "title": "Bundesliga",
+                "link": "/The-thao/Bundesliga"
             },
             {
                 "id": "95",
-                "title": "",
-                "link": "/Bóng-đá/"
+                "title": "Các môn khác",
+                "link": "/The-thao/Cac-mon-khac"
+            },
+            {
+                "id": "96",
+                "title": "AFF Cup",
+                "link": "/The-thao/AFF-Cup"
+            },
+            {
+                "id": "97",
+                "title": "Hậu trường",
+                "link": "/The-thao/Hau-truong"
+            },
+            {
+                "id": "98",
+                "title": "Video",
+                "link": "/The-thao/Video"
+            },
+            {
+                "id": "99",
+                "title": "Ảnh",
+                "link": "/The-thao/Anh"
+            },
+            {
+                "id": "910",
+                "title": "V-Race",
+                "link": "/The-thao/V-Race"
+            },
+            {
+                "id": "911",
+                "title": "Trắc nghiệm",
+                "link": "/The-thao/Trac-nghiem"
+            },
+            {
+                "id": "912",
+                "title": "Tường thuật",
+                "link": "/The-thao/Tuong-thuat"
             }
         ]
     },
     {
         "id": "10",
         "title": "Pháp luật",
-        "link": "/Pháp-luật",
+        "link": "/Phap-luat",
         "child": [
             {
                 "id": "100",
                 "title": "Hồ sơ phá án",
-                "link": "/Hồ-sơ-phá-án/Hồ-sơ-phá-án"
+                "link": "/Phap-luat/Ho-so-pha-an"
             },
             {
                 "id": "101",
                 "title": "Tư vấn",
-                "link": "/Hồ-sơ-phá-án/Tư-vấn"
-            },
-            {
-                "id": "102",
-                "title": "",
-                "link": "/Hồ-sơ-phá-án/"
+                "link": "/Phap-luat/Tu-van"
             }
         ]
     },
     {
         "id": "11",
         "title": "Giáo dục",
-        "link": "/Giáo-dục",
+        "link": "/Giao-duc",
         "child": [
             {
                 "id": "110",
                 "title": "Tuyển sinh",
-                "link": "/Tuyển-sinh/Tuyển-sinh"
+                "link": "/Giao-duc/Tuyen-sinh"
             },
             {
                 "id": "111",
                 "title": "Điểm thi",
-                "link": "/Tuyển-sinh/Điểm-thi"
+                "link": "/Giao-duc/Diem-thi"
             },
             {
                 "id": "112",
                 "title": "Tra cứu đại học",
-                "link": "/Tuyển-sinh/Tra-cứu-đại-học"
+                "link": "/Giao-duc/Tra-cuu-dai-hoc"
             },
             {
                 "id": "113",
                 "title": "Du học",
-                "link": "/Tuyển-sinh/Du-học"
+                "link": "/Giao-duc/Du-hoc"
             },
             {
                 "id": "114",
-                "title": "Xem thêm",
-                "link": "/Tuyển-sinh/Xem-thêm"
+                "title": "Học tiếng Anh",
+                "link": "/Giao-duc/Hoc-tieng-Anh"
             },
             {
                 "id": "115",
-                "title": "",
-                "link": "/Tuyển-sinh/"
+                "title": "Trắc nghiệm",
+                "link": "/Giao-duc/Trac-nghiem"
+            },
+            {
+                "id": "116",
+                "title": "Giáo dục 4.0",
+                "link": "/Giao-duc/Giao-duc-4-0"
             }
         ]
     },
     {
         "id": "12",
         "title": "Sức khỏe",
-        "link": "/Sức-khỏe",
+        "link": "/Suc-khoe",
         "child": [
             {
                 "id": "120",
                 "title": "Tin tức",
-                "link": "/Tin-tức/Tin-tức"
+                "link": "/Suc-khoe/Tin-tuc"
             },
             {
                 "id": "121",
                 "title": "Tư vấn",
-                "link": "/Tin-tức/Tư-vấn"
+                "link": "/Suc-khoe/Tu-van"
             },
             {
                 "id": "122",
                 "title": "Dinh dưỡng",
-                "link": "/Tin-tức/Dinh-dưỡng"
+                "link": "/Suc-khoe/Dinh-duong"
             },
             {
                 "id": "123",
                 "title": "Khỏe đẹp",
-                "link": "/Tin-tức/Khỏe-đẹp"
+                "link": "/Suc-khoe/Khoe-dep"
             },
             {
                 "id": "124",
-                "title": "Xem thêm",
-                "link": "/Tin-tức/Xem-thêm"
+                "title": "Đàn ông",
+                "link": "/Suc-khoe/Dan-ong"
             },
             {
                 "id": "125",
-                "title": "",
-                "link": "/Tin-tức/"
+                "title": "Các bệnh",
+                "link": "/Suc-khoe/Cac-benh"
+            },
+            {
+                "id": "126",
+                "title": "Vaccine",
+                "link": "/Suc-khoe/Vaccine"
             }
         ]
     },
     {
         "id": "13",
         "title": "Đời sống",
-        "link": "/Đời-sống",
+        "link": "/Doi-song",
         "child": [
             {
                 "id": "130",
                 "title": "Tổ ấm",
-                "link": "/Tổ-ấm/Tổ-ấm"
+                "link": "/Doi-song/To-am"
             },
             {
                 "id": "131",
                 "title": "Bài học sống",
-                "link": "/Tổ-ấm/Bài-học-sống"
+                "link": "/Doi-song/Bai-hoc-song"
             },
             {
                 "id": "132",
                 "title": "Nhà",
-                "link": "/Tổ-ấm/Nhà"
+                "link": "/Doi-song/Nha"
             },
             {
                 "id": "133",
                 "title": "Tiêu dùng",
-                "link": "/Tổ-ấm/Tiêu-dùng"
+                "link": "/Doi-song/Tieu-dung"
             },
             {
                 "id": "134",
-                "title": "Xem thêm",
-                "link": "/Tổ-ấm/Xem-thêm"
-            },
-            {
-                "id": "135",
-                "title": "",
-                "link": "/Tổ-ấm/"
+                "title": "Cooking",
+                "link": "/Doi-song/Cooking"
             }
         ]
     },
     {
         "id": "14",
         "title": "Du lịch",
-        "link": "/Du-lịch",
+        "link": "/Du-lich",
         "child": [
             {
                 "id": "140",
                 "title": "Điểm đến",
-                "link": "/Điểm-đến/Điểm-đến"
+                "link": "/Du-lich/Diem-den"
             },
             {
                 "id": "141",
                 "title": "Dấu chân",
-                "link": "/Điểm-đến/Dấu-chân"
+                "link": "/Du-lich/Dau-chan"
             },
             {
                 "id": "142",
                 "title": "Tư vấn",
-                "link": "/Điểm-đến/Tư-vấn"
+                "link": "/Du-lich/Tu-van"
             },
             {
                 "id": "143",
                 "title": "Ảnh",
-                "link": "/Điểm-đến/Ảnh"
+                "link": "/Du-lich/Anh"
             },
             {
                 "id": "144",
-                "title": "Xem thêm",
-                "link": "/Điểm-đến/Xem-thêm"
-            },
-            {
-                "id": "145",
-                "title": "",
-                "link": "/Điểm-đến/"
+                "title": "Ăn và chơi",
+                "link": "/Du-lich/An-va-choi"
             }
         ]
     },
     {
         "id": "15",
         "title": "Số hóa",
-        "link": "/Số-hóa",
+        "link": "/So-hoa",
         "child": [
             {
                 "id": "150",
                 "title": "Công nghệ",
-                "link": "/Công-nghệ/Công-nghệ"
+                "link": "/So-hoa/Cong-nghe"
             },
             {
                 "id": "151",
                 "title": "Sản phẩm",
-                "link": "/Công-nghệ/Sản-phẩm"
+                "link": "/So-hoa/San-pham"
             },
             {
                 "id": "152",
                 "title": "Tech Awards 2021",
-                "link": "/Công-nghệ/Tech-Awards-2021"
-            },
-            {
-                "id": "153",
-                "title": "",
-                "link": "/Công-nghệ/"
+                "link": "/So-hoa/Tech-Awards-2021"
             }
         ]
     },
@@ -537,76 +677,123 @@
             {
                 "id": "160",
                 "title": "Thị trường",
-                "link": "/Thị-trường/Thị-trường"
+                "link": "/Xe/Thi-truong"
             },
             {
                 "id": "161",
                 "title": "Tư vấn",
-                "link": "/Thị-trường/Tư-vấn"
+                "link": "/Xe/Tu-van"
             },
             {
                 "id": "162",
                 "title": "Car Awards 2021",
-                "link": "/Thị-trường/Car-Awards-2021"
+                "link": "/Xe/Car-Awards-2021"
             },
             {
                 "id": "163",
                 "title": "V-Car",
-                "link": "/Thị-trường/V-Car"
+                "link": "/Xe/V-Car"
             },
             {
                 "id": "164",
-                "title": "Xem thêm",
-                "link": "/Thị-trường/Xem-thêm"
+                "title": "Diễn đàn",
+                "link": "/Xe/Dien-dan"
             },
             {
                 "id": "165",
-                "title": "",
-                "link": "/Thị-trường/"
+                "title": "Đánh giá",
+                "link": "/Xe/Danh-gia"
+            },
+            {
+                "id": "166",
+                "title": "Video",
+                "link": "/Xe/Video"
+            },
+            {
+                "id": "167",
+                "title": "Bảng giá ôtô",
+                "link": "/Xe/Bang-gia-oto"
+            },
+            {
+                "id": "168",
+                "title": "Xe điện",
+                "link": "/Xe/Xe-dien"
+            },
+            {
+                "id": "169",
+                "title": "Cẩm nang mua xe",
+                "link": "/Xe/Cam-nang-mua-xe"
+            },
+            {
+                "id": "1610",
+                "title": "Thi bằng lái",
+                "link": "/Xe/Thi-bang-lai"
+            },
+            {
+                "id": "1611",
+                "title": "Mua bán",
+                "link": "/Xe/Mua-ban"
             }
         ]
     },
     {
         "id": "17",
         "title": "Ý kiến",
-        "link": "/Ý-kiến",
+        "link": "/Y-kien",
         "child": [
             {
                 "id": "170",
                 "title": "Thời sự",
-                "link": "/Thời-sự/Thời-sự"
+                "link": "/Y-kien/Thoi-su"
             },
             {
                 "id": "171",
                 "title": "Đời sống",
-                "link": "/Thời-sự/Đời-sống"
-            },
-            {
-                "id": "172",
-                "title": "",
-                "link": "/Thời-sự/"
+                "link": "/Y-kien/Doi-song"
             }
         ]
     },
     {
         "id": "18",
         "title": "Tâm sự",
-        "link": "/Tâm-sự",
+        "link": "/Tam-su",
         "child": [
             {
                 "id": "180",
                 "title": "Chuyên gia gỡ rối",
-                "link": "/Chuyên-gia-gỡ-rối/Chuyên-gia-gỡ-rối"
+                "link": "/Tam-su/Chuyen-gia-go-roi"
             },
             {
                 "id": "181",
                 "title": "Hẹn hò",
-                "link": "/Chuyên-gia-gỡ-rối/Hẹn-hò"
+                "link": "/Tam-su/Hen-ho"
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "title": "Hài",
+        "link": "/Hai",
+        "child": [
+            {
+                "id": "190",
+                "title": "Cười",
+                "link": "/Hai/Cuoi"
             },
             {
-                "id": "182",
-                "title": "",
-                "link": "/Chuyên-gia-gỡ-rối/"
+                "id": "191",
+                "title": "Đố vui",
+                "link": "/Hai/Do-vui"
+            },
+            {
+                "id": "192",
+                "title": "Chuyện lạ",
+                "link": "/Hai/Chuyen-la"
+            },
+            {
+                "id": "193",
+                "title": "Thú cưng",
+                "link": "/Hai/Thu-cung"
             }
         ]
     }

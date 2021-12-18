@@ -21,7 +21,7 @@ function Navigation() {
       })}
     >
       <Menu className="navigation__menu" theme="light" mode="horizontal">
-        <Menu.Item key={0}>
+        <Menu.Item>
           <HomeFilled />
           <Link to="/" />
         </Menu.Item>

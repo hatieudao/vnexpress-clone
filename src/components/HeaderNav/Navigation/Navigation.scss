@@ -1,4 +1,5 @@
 .navigation{
+  width: 100vw !important;
   height: 80px;
   & >ul{
     height: 100%;
@@ -9,5 +10,10 @@
   &--fixed{
     position: fixed !important;
     top: 0 !important;
+  }
+}
+@media screen and(max-width: 1150px) {
+  .navigation{
+    display: none;
   }
 }
