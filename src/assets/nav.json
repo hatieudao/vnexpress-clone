@@ -1,5 +1,47 @@
 [
     {
+        "id": "10000",
+        "title": "Headline",
+        "link": "top-headlines",
+        "child": [
+            {
+                "id": "10001",
+                "title": "business",
+                "link": "top-headlines?category=business"
+            },
+            {
+                "id": "10002",
+                "title": "entertainment",
+                "link": "top-headlines?category=entertainment"
+            },
+            {
+                "id": "10003",
+                "title": "general",
+                "link": "top-headlines?category=general"
+            },
+            {
+                "id": "10004",
+                "title": "health",
+                "link": "top-headlines?category=health"
+            },
+            {
+                "id": "10005",
+                "title": "science",
+                "link": "top-headlines?category=science"
+            },
+            {
+                "id": "10006",
+                "title": "sports",
+                "link": "top-headlines?category=sports"
+            },
+            {
+                "id": "10007",
+                "title": "technology",
+                "link": "top-headlines?category=technology"
+            }
+        ]
+    },
+    {
         "id": "1",
         "title": "Thời sự",
         "link": "/Thoi-su",

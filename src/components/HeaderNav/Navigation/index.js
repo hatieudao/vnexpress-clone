@@ -4,7 +4,7 @@ import { Menu } from 'antd'
 import { HomeFilled } from '@ant-design/icons'
 import classNames from 'classnames'
 import DropdownNav from '../DropdownNav'
-import navs from './nav.json'
+import navs from '../../../assets/nav.json'
 import './Navigation.scss'
 function Navigation() {
   const [fixedNav, setFixedNav] = useState(false)

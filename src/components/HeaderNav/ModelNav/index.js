@@ -2,7 +2,7 @@ import React from 'react'
 import { Button, Menu } from 'antd'
 import { Link } from 'react-router-dom'
 import classNames from 'classnames'
-import navs from '../Navigation/nav.json'
+import navs from '../../../assets/nav.json'
 import './ModelNav.scss'
 import ChildNav from './ChildNav'
 function ModelNav({ show, handleShow }) {

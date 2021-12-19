@@ -5,6 +5,7 @@
   height: 50px;
   padding: 9px;
   width: 100vw;
+  border-bottom: solid .5px  rgba(207, 207, 207, 0.5) ;
   &-time{
     color: #757575;
     padding-top: 12px;
@@ -46,6 +47,7 @@
     top: 0;
     padding: 0 !important;
     justify-content: space-between;
+    z-index: 100;
     &-time{
       display: none;
     }

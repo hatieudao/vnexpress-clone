@@ -1,0 +1,9 @@
+.content{
+  padding: 0 calc(8vw);
+}
+.footer{
+ text-align: 'center';
+}
+@media screen and ( max-width: 1150px) {
+  .content{padding: 0;}
+}

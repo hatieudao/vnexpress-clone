@@ -1,6 +1,7 @@
 .navigation{
-  width: 100vw !important;
+  width: 100% !important;
   height: 80px;
+  border-bottom: solid .5px rgba(207, 207, 207, .5);
   & >ul{
     height: 100%;
     padding-left: 70px;
@@ -10,6 +11,7 @@
   &--fixed{
     position: fixed !important;
     top: 0 !important;
+    z-index: 100;
   }
 }
 @media screen and(max-width: 1150px) {
