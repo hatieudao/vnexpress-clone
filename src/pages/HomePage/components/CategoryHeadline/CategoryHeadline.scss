@@ -2,6 +2,7 @@
   background-color: #fff;
   width: 65%;
   padding: 0 10px;
+  margin-bottom: 25px;
   z-index: 1;
   .ant-tabs-tab-btn{
     text-transform:capitalize;
@@ -10,13 +11,13 @@
     height: 550px;
     border: solid .5px rgba(0, 0, 0, .2);
     &__head{
-      height: 350px;
+      height: 300px;
       width: 100%;
       min-width: 100%;
       display: flex;
       justify-content: center;
       align-items: flex-start;
-        box-shadow: 0 2px 2px rgba(0, 0, 0, .2);
+      box-shadow: 0 2px 2px rgba(0, 0, 0, .2);
       &__first{
         display: flex;
         border-right: 1px solid rgba(0, 0, 0, .2);
@@ -36,6 +37,7 @@
     }
     &__body{
       display: flex;
+      justify-content: space-evenly;
       a{
         width: 34%;
         text-decoration: none;
@@ -87,8 +89,9 @@
   &__item{
     height: 400px;
     &__head{
-      height: 230px;
+      height: 200px;
       &__first{
+        border-right: none;
       }
         &__second{
           display: none;
@@ -96,6 +99,9 @@
      }
     }
   }
+   .ant-card-body{
+      padding: 8px !important;
+    }
 }
 @media screen and (max-width: 900px){
   .category-headline{
